@@ -19,7 +19,7 @@ export default {
 <template>
   <!-- <img alt="Vue logo" src="./assets/logo.png" /> -->
   <Ref />
-  <HelloWorld :msg="msg" />
+  <!-- <HelloWorld :msg="msg" /> -->
 </template>
 
 <style>
